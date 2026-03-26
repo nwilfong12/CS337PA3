@@ -1,0 +1,5 @@
+{
+  "name": "Ubuntu:24.04",
+  "image": "uwmcs/337:sp26",
+  "remoteUser": "cs337"
+}
